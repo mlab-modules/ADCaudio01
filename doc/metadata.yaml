@@ -1,0 +1,15 @@
+description: null
+github_branch: ADCaudio01B
+github_repo: ADCaudio01
+github_url: https://github.com/mlab-modules/ADCaudio01
+homepage: false
+images:
+- doc/img/ADCaudio01B_bottom_small.jpg
+- doc/img/ADCaudio01B_bottom_big.jpg
+- doc/img/ADCaudio01B_top_big.png
+- doc/img/ADCaudio01B_QRcode.png
+- doc/img/ADCaudio01B_top_small.png
+- doc/img/GNURadio_SDR-widget.png
+mark: 50
+tags: []
+title: ADCaudio01
