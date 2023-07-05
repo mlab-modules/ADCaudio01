@@ -11,5 +11,7 @@ images:
 - doc/img/GNURadio_SDR-widget.png
 - doc/img/ADCaudio01B_QRcode.png
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: ADCaudio01
