@@ -11,6 +11,7 @@ images:
 - doc/img/ADCaudio01B_top_small.png
 - doc/img/GNURadio_SDR-widget.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
