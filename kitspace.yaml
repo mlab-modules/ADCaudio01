@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/ADCaudio01
-summary: null
+summary: 'Audio to digital converter  ADCaudio01B Module has audio input interface.
+  Digitalized audio data stream (I2S) with parametrers 192kHz@24bit. '

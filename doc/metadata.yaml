@@ -1,4 +1,5 @@
-description: null
+description: 'Audio to digital converter  ADCaudio01B Module has audio input interface.
+  Digitalized audio data stream (I2S) with parametrers 192kHz@24bit. '
 github_branch: ADCaudio01B
 github_repo: ADCaudio01
 github_url: https://github.com/mlab-modules/ADCaudio01
@@ -7,12 +8,18 @@ images:
 - doc/img/ADCaudio01B_bottom_small.jpg
 - doc/img/ADCaudio01B_bottom_big.jpg
 - doc/img/ADCaudio01B_top_big.png
+- doc/img/GNURadio_SDR-widget.png
 - doc/img/ADCaudio01B_QRcode.png
 - doc/img/ADCaudio01B_top_small.png
-- doc/img/GNURadio_SDR-widget.png
 mark: 50
 status: 0
 tags:
 - mlab
 - mlab-module
+- adc
+- i2c
+- mlab-audio
+- digitalizer
+- mlab-adc
+- soundd-card
 title: ADCaudio01
