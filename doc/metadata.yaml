@@ -12,7 +12,7 @@ images:
 - doc/img/ADCaudio01B_QRcode.png
 - doc/img/ADCaudio01B_top_small.png
 mark: 50
-status: 0
+status: 2
 tags:
 - mlab
 - mlab-module
