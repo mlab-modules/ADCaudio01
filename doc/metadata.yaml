@@ -1,9 +1,10 @@
-description: 'Audio to digital converter  ADCaudio01B Module has audio input interface.
-  Digitalized audio data stream (I2S) with parametrers 192kHz@24bit. '
+description: 'Audio to digital converter  ADCaudio01B Module has an audio input interface.
+  Digitalized audio data stream (I2S) with parameters 192kHz@24bit. '
 github_branch: ADCaudio01B
 github_repo: ADCaudio01
 github_url: https://github.com/mlab-modules/ADCaudio01
 homepage: false
+image_title: doc/img/ADCaudio01B_top_small.png
 images:
 - doc/img/ADCaudio01B_bottom_small.jpg
 - doc/img/ADCaudio01B_bottom_big.jpg
